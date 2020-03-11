@@ -1,32 +1,660 @@
 [
  {
+   "Id": 1,
    "Matric": "B051610173",
    "Name": "AARON TAN",
    "Section": 2,
    "Group": 2
  },
  {
+   "Id": 2,
    "Matric": "B051610145",
    "Name": "AMIR ASYRAF BIN ZAINAL",
    "Section": 2,
    "Group": 2
  },
  {
+   "Id": 3,
    "Matric": "B051610022",
    "Name": "GAN CHIN KET",
    "Section": 2,
    "Group": 2
  },
  {
+   "Id": 4,
    "Matric": "B051610046",
    "Name": "HISYAMUDDIN BIN OSMAN",
    "Section": 2,
    "Group": 2
  },
  {
+   "Id": 5,
    "Matric": "B051610125",
    "Name": "JONATHAN EDWIN RAJ A/L VINCENT JEYRAJ",
    "Section": 2,
    "Group": 2
+ },
+ {
+   "Id": 6,
+   "Matric": "B051610155",
+   "Name": "KHAIRUL ESMAIL BIN MOHD ZAWAWI",
+   "Section": 2,
+   "Group": 2
+ },
+ {
+   "Id": 7,
+   "Matric": "B051610121",
+   "Name": "MOHD IZHAM BIN RADZI",
+   "Section": 2,
+   "Group": 2
+ },
+ {
+   "Id": 8,
+   "Matric": "B051610233",
+   "Name": "MUHAMMAD FIKRI BIN JAMALUDDIN",
+   "Section": 2,
+   "Group": 2
+ },
+ {
+   "Id": 9,
+   "Matric": "B051610223",
+   "Name": "MUHAMMAD SYAZWAN SYAMIL BIN MOHD AZHAR",
+   "Section": 2,
+   "Group": 2
+ },
+ {
+   "Id": 10,
+   "Matric": "B051610148",
+   "Name": "MU'IZ BIN BAHAMAN",
+   "Section": 2,
+   "Group": 2
+ },
+ {
+   "Id": 11,
+   "Matric": "B051610222",
+   "Name": "PARVIN RAO A/L NADESANNAIDU",
+   "Section": 2,
+   "Group": 2
+ },
+ {
+   "Id": 12,
+   "Matric": "B051610230",
+   "Name": "PRIYA GANESSA VEL A/L SUGUMARAN",
+   "Section": 2,
+   "Group": 2
+ },
+ {
+   "Id": 13,
+   "Matric": "B051610011",
+   "Name": "TEH WOEI TI",
+   "Section": 2,
+   "Group": 2
+ },
+ {
+   "Id": 14,
+   "Matric": "B051610003",
+   "Name": "THIEBAN A/L GOBI",
+   "Section": 2,
+   "Group": 2
+ },
+ {
+   "Id": 15,
+   "Matric": "B051610036",
+   "Name": "TIEO KAH GUAN",
+   "Section": 2,
+   "Group": 2
+ },
+ {
+   "Id": 16,
+   "Matric": "B051610195",
+   "Name": "ABDUL HAKIM BIN ZULKIFLI",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 17,
+   "Matric": "B051610114",
+   "Name": "CHAN YIT QUAN",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 18,
+   "Matric": "B051610023",
+   "Name": "CHAU WILSON",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 19,
+   "Matric": "B051610084",
+   "Name": "FAKHIRA NUR ADILA BINTI HASMAT",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 20,
+   "Matric": "B051610204",
+   "Name": "FARAH AMIRAH BINTI SALLEH HUDDIN",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 21,
+   "Matric": "B051610149",
+   "Name": "KALVIN PARAN ANAK UNTOL",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 22,
+   "Matric": "B051610029",
+   "Name": "LAI YUK MING",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 23,
+   "Matric": "B051610249",
+   "Name": "MUHAMMAD HAZIM BIN ABD AZIZ",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 24,
+   "Matric": "B051610050",
+   "Name": "MUHAMMAD IKHWAN HAQIEM BIN MAZLAN",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 25,
+   "Matric": "B051610250",
+   "Name": "MUHAMMAD SOFWAN BIN MOHD AZMIN",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 26,
+   "Matric": "B051610065",
+   "Name": "NUR AIN QISTINA BINTI MUHAMMAD SHAFEE",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 27,
+   "Matric": "B051610083",
+   "Name": "NUR AISYAH NABILAH BINTI MOHD JMMANI",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 28,
+   "Matric": "B051610012",
+   "Name": "PHENG SYIE CHIE",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 29,
+   "Matric": "B051610236",
+   "Name": "RPRAKASH A/L RAMANATHAN",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 30,
+   "Matric": "B051610113",
+   "Name": "RUBENDHIRAN A/L MANIRAJAN",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 31,
+   "Matric": "B051610088",
+   "Name": "SITI NURSYAFIQAH BINTI MOHAMED TALMIZI",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 32,
+   "Matric": "B051610041",
+   "Name": "TANG PEI CHIN",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 33,
+   "Matric": "B051610018",
+   "Name": "TEY YIK YANG",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 34,
+   "Matric": "B051610073",
+   "Name": "WAN NUR HAFIZAH BINTI WAN MOHD NOOR",
+   "Section": 3,
+   "Group": 1
+ },
+ {
+   "Id": 35,
+   "Matric": "B051610208",
+   "Name": "ADILAH BINTI AZMI",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 36,
+   "Matric": "B051610146",
+   "Name": "MOHAMAD AIZAT BIN JUFRI",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 37,
+   "Matric": "B051610133",
+   "Name": "MOHAMAD FAIZAL BIN KADIR",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 38,
+   "Matric": "B051610240",
+   "Name": "MOHAMMAD AMIRUL AMIN BIN MD SAH",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 39,
+   "Matric": "B051610186",
+   "Name": "MOHAMMAD SYAFIQ BIN OTHMAN",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 40,
+   "Matric": "B051610062",
+   "Name": "MOHD AFWAN SYAZWI BIN MUSA",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 41,
+   "Matric": "B051610265",
+   "Name": "MUHAMMAD AMIRUL SYAFIQ BIN YUSOFF",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 42,
+   "Matric": "B051610089",
+   "Name": "MUHAMMAD NABIL BIN SHAHARUDDIN",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 43,
+   "Matric": "B051610080",
+   "Name": "MUHAMMAD NURAIMAN HAKIM MOHD NASIR",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 44,
+   "Matric": "B051610070",
+   "Name": "NOR AMALINA BINTI MOHD SANI",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 45,
+   "Matric": "B051610047",
+   "Name": "RASYIDAH SALWANI BINTI RAMLAN",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 46,
+   "Matric": "B051610066",
+   "Name": "SITI NAJIHA BINTI MOHD AMIN",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 47,
+   "Matric": "B051610057",
+   "Name": "SYAZA NABILAH BINTI AZHAR",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 48,
+   "Matric": "B051610118",
+   "Name": "TAN CHEE WEI",
+   "Section": 3,
+   "Group": 2
+ },
+ {
+   "Id": 49,
+   "Matric": "B051610171",
+   "Name": "ALEXANDER BEH",
+   "Section": 1,
+   "Group": 1
+ },
+ {
+   "Id": 50,
+   "Matric": "B051610048",
+   "Name": "AMIRAH ARIFAH BINTI MOHD RAZI",
+   "Section": 1,
+   "Group": 1
+ },
+ {
+   "Id": 51,
+   "Matric": "B051610008",
+   "Name": "CHRISTINE SIA LI LING",
+   "Section": 1,
+   "Group": 1
+ },
+ {
+   "Id": 52,
+   "Matric": "B051610090",
+   "Name": "IFFAH FIKRIYAH MUNIFFAH BINTI MASROM",
+   "Section": 1,
+   "Group": 1
+ },
+ {
+   "Id": 53,
+   "Matric": "B051610014",
+   "Name": "KOH CHEN REN",
+   "Section": 1,
+   "Group": 1
+ },
+ {
+   "Id": 54,
+   "Matric": "B051610025",
+   "Name": "LIM YEE SHING",
+   "Section": 1,
+   "Group": 1
+ },
+ {
+   "Id": 55,
+   "Matric": "B051610160",
+   "Name": "MUHAMAD SALIHIN BIN MOHD ISA",
+   "Section": 1,
+   "Group": 1
+ },
+ {
+   "Id": 56,
+   "Matric": "B051610037",
+   "Name": "MUHAMMAD KHAIRI BIN ABDUL HALIM",
+   "Section": 1,
+   "Group": 1
+ },
+ {
+   "Id": 57,
+   "Matric": "B051510095",
+   "Name": "NAIM A'IMULLAH BIN RAMLEE",
+   "Section": 1,
+   "Group": 1
+ },
+ {
+   "Id": 58,
+   "Matric": "B051610224",
+   "Name": "THAMENDERAN A/L THIAGARAJAN",
+   "Section": 1,
+   "Group": 1
+ },
+ {
+   "Id": 59,
+   "Matric": "B051610124",
+   "Name": "ABERNICE ANN ANAK ABERT ACHILLES NUNONG",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 60,
+   "Matric": "B051610129",
+   "Name": "CHAN KAH LOH",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 61,
+   "Matric": "B051610064",
+   "Name": "ISMATUL IDDA BINTI SHARIFUDDIN",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 62,
+   "Matric": "B051610203",
+   "Name": "MUHAMAD ZULFAZLI BIN ZAHARUDDIN",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 63,
+   "Matric": "B051610085",
+   "Name": "MUHAMMAD SHAFEEZAL BIN MAT SHAH",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 64,
+   "Matric": "B051610020",
+   "Name": "NOR HAJAR ATHIRA BINTI NASIR",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 65,
+   "Matric": "B051610105",
+   "Name": "SHAMINI A/P RAVINTHIRAN",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 66,
+   "Matric": "B051610013",
+   "Name": "VAITHISWARY A/P VARATHAN",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 67,
+   "Matric": "B051610076",
+   "Name": "VANNESSA LIPANG HENRY",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 68,
+   "Matric": "B051510070",
+   "Name": "WANG KANG YU",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 69,
+   "Matric": "B051610010",
+   "Name": "WONG SOOK EE",
+   "Section": 1,
+   "Group": 2
+ },
+ {
+   "Id": 70,
+   "Matric": "B051610156",
+   "Name": "AZRIN NAZIRA BINTI SARMANI",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 71,
+   "Matric": "B051610225",
+   "Name": "FASIHA DIYANA BINTI MOHD ZAIDI",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 72,
+   "Matric": "B051610082",
+   "Name": "MAZHAR BIN CHE IN",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 73,
+   "Matric": "B051610091",
+   "Name": "MOHAMAD DANIAL BIN ZAINUDDIN",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 74,
+   "Matric": "B051610216",
+   "Name": "MOHAMAD FIKRI BIN GHAZALI",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 75,
+   "Matric": "B051610120",
+   "Name": "MOHAMAD IKHMAL FAIZ BIN AMRI",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 76,
+   "Matric": "B051610068",
+   "Name": "MUHAMAD AMIN ASYRAF BIN WAHABI",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 77,
+   "Matric": "B051610027",
+   "Name": "NG SHIH CHIEN",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 78,
+   "Matric": "B051610086",
+   "Name": "NUR EMELIA SYAFFA BINTI YUSOF",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 79,
+   "Matric": "B051610078",
+   "Name": "NURUL HATIKAH BINTI AZMI",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 80,
+   "Matric": "B051610111",
+   "Name": "SERMALA A/P KRISHNAN",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 81,
+   "Matric": "B051610017",
+   "Name": "TAN ANN SHIEN",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 82,
+   "Matric": "B051610021",
+   "Name": "TAN CHEN MING",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 83,
+   "Matric": "B051610116",
+   "Name": "TE KE JIE",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 84,
+   "Matric": "B051610051",
+   "Name": "ZARINA BINTI MOHAMED ZAIN",
+   "Section": 2,
+   "Group": 1
+ },
+ {
+   "Id": 85,
+   "Matric": "B051610234",
+   "Name": "SOONG MENG KEONG",
+   "Section": 0,
+   "Group": 0
+ },
+ {
+   "Id": 86,
+   "Matric": "B051910085",
+   "Name": "JAN KLUCKERT",
+   "Section": 0,
+   "Group": 0
+ },
+ {
+   "Id": 87,
+   "Matric": "B051610132",
+   "Name": "HABEEB ALSABTARI",
+   "Section": 0,
+   "Group": 0
+ },
+ {
+   "Id": 88,
+   "Matric": "B051720029",
+   "Name": "TAY HOCK SENG",
+   "Section": 0,
+   "Group": 0
+ },
+ {
+   "Id": 89,
+   "Matric": "B051720045",
+   "Name": "YOONG QI HONG",
+   "Section": 0,
+   "Group": 0
+ },
+ {
+   "Id": 90,
+   "Matric": "B051720006",
+   "Name": "PEONG YING CYING",
+   "Section": 0,
+   "Group": 0
+ },
+ {
+   "Id": 91,
+   "Matric": "B051720007",
+   "Name": "ANIS SYAHIRAH BINTI JOHARI",
+   "Section": 0,
+   "Group": 0
+ },
+ {
+   "Id": 92,
+   "Matric": "B051610040",
+   "Name": "LOW SHEE TENG",
+   "Section": 0,
+   "Group": 0
+ },
+ {
+   "Id": 93,
+   "Matric": "B051920009",
+   "Name": "MARIA CHRIZANDITA Y.R",
+   "Section": 0,
+   "Group": 0
+ },
+ {
+   "Id": 94,
+   "Matric": "B051920005",
+   "Name": "ZULFA ALFIN A SAIDA",
+   "Section": 0,
+   "Group": 0
  }
 ]
